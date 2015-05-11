@@ -1,4 +1,6 @@
 /target
+/gwt-unitCache
+/test-classes
 .settings
 .cache
 .project

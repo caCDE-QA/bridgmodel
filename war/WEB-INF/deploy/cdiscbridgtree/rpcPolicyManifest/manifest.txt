@@ -1,0 +1,3 @@
+# Module cdiscbridgtree
+# RPC service class, partial path of RPC policy file
+edu.mayo.cdisc.tree.client.CdiscService, C4EB686E9588CEFA0AF7E87E9F60FAD0.gwt.rpc

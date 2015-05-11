@@ -1,0 +1,13 @@
+/target
+.settings
+.cache
+.project
+.classpath
+.DS_Store
+.gwt
+.svn
+*.iml
+*.ipr
+*.iws
+*.bak
+.idea/

@@ -1,0 +1,2 @@
+serviceClass: edu.mayo.cdisc.tree.client.CdiscService
+path: C4EB686E9588CEFA0AF7E87E9F60FAD0.gwt.rpc
